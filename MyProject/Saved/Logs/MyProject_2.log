@@ -1172,3 +1172,264 @@ FPackageName: Skipped package /Engine/EngineMeshes/Humanoid has a valid, mounted
 [2025.10.07-13.28.19:677][396]LogSlate: Window 'Env. Light Mixer' being destroyed
 [2025.10.07-13.28.19:683][396]LogSlate: Window 'Env. Light Mixer' being destroyed
 [2025.10.07-13.28.33:246][187]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.10.07-13.29.47:660][119]LogStreaming: Display: FlushAsyncLoading(331): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-13.29.47:715][119]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-13.29.47:715][119]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Yunchang/Downloads/qwantani_noon_4k.exr]
+[2025.10.07-13.29.48:347][121]Interchange: Error: [C:/Users/Yunchang/Downloads/qwantani_noon_4k.exr : '', Unknown] There was no data to import in the provided source data.
+[2025.10.07-13.29.48:353][121]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-13.29.48:353][121]LogInterchangeEngine: Error: [Failure] Import Failed
+[2025.10.07-13.29.50:787][213]LogDerivedDataCache: C:/Users/Yunchang/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.07-13.29.51:803][216]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.51:989][216]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.51:989][216]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:007][217]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:024][218]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:057][220]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:074][221]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:108][223]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:124][224]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:156][226]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:157][226]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:173][227]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:174][227]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:190][228]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:206][229]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:208][229]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:756][262]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:756][262]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:757][262]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:773][263]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:774][263]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:790][264]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:807][265]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:808][265]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:824][266]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:858][268]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:873][269]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.52:875][269]LogMediaAssets: Error: Failed to validate C:\Users\Yunchang\Downloads\qwantani_noon_4k.exr
+[2025.10.07-13.29.53:241][291]LogStreaming: Display: FlushAsyncLoading(364): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-13.29.53:246][291]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-13.29.53:246][291]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Yunchang/Downloads/qwantani_noon_4k.exr]
+[2025.10.07-13.29.53:929][293]Interchange: Error: [C:/Users/Yunchang/Downloads/qwantani_noon_4k.exr : '', Unknown] There was no data to import in the provided source data.
+[2025.10.07-13.29.53:935][294]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-13.29.53:935][294]LogInterchangeEngine: Error: [Failure] Import Failed
+[2025.10.07-13.30.09:692][347]LogStreaming: Display: FlushAsyncLoading(365): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-13.30.09:699][347]LogInterchangeEngine: [Pending] Importing
+[2025.10.07-13.30.09:699][347]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/Yunchang/Downloads/qwantani_noon_4k.hdr]
+[2025.10.07-13.30.10:385][350]LogStreaming: Display: FlushAsyncLoading(366): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-13.30.10:720][351]LogTexture: Display: Building textures: /Game/NewFolder/qwantani_noon_4k.qwantani_noon_4k (TFO_BC6H, 4096x2048 x1x1x1) (Required Memory Estimate: 1921.000 MB), EncodeSpeed: Fast
+[2025.10.07-13.30.16:933][604]LogInterchangeEngine: Display: Interchange import completed [C:/Users/Yunchang/Downloads/qwantani_noon_4k.hdr]
+[2025.10.07-13.30.16:937][604]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.07-13.30.16:937][604]LogInterchangeEngine: [Success] Import Done
+[2025.10.07-13.30.21:133][845]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.07-13.31.21:574][391]LogContentBrowser: Deferred new asset file creation: qwantani_noon_4k_Mat
+[2025.10.07-13.31.21:580][391]LogContentBrowser: Creating deferred item: qwantani_noon_4k_Mat
+[2025.10.07-13.31.21:590][392]LogContentBrowser: Renaming the item being created (Deferred Item: qwantani_noon_4k_Mat).
+[2025.10.07-13.31.22:487][446]LogContentBrowser: Attempting asset rename: qwantani_noon_4k_Mat -> qwantani_noon_4k_Mat
+[2025.10.07-13.31.22:489][446]LogMaterial: Warning: [AssetLog] /Game/NewFolder/qwantani_noon_4k_Mat.qwantani_noon_4k_Mat: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	(Node TextureSample) Texture Sample> UVW input required for cubemap sample
+
+[2025.10.07-13.31.22:510][446]LogContentBrowser: End creating deferred item qwantani_noon_4k_Mat
+[2025.10.07-13.31.22:573][448]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.10.07-13.31.25:641][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.10.07-13.31.25:753][612]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.10.07-13.31.25:765][612]LogSlate: Took 0.011339 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.07-13.31.26:870][612]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.07-13.31.26:895][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.07-13.31.26:910][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.10.07-13.31.26:923][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.10.07-13.31.27:565][647]LogAssetEditorSubsystem: Opening Asset editor for TextureCube /Game/NewFolder/qwantani_noon_4k.qwantani_noon_4k
+[2025.10.07-13.31.28:031][647]LogDeviceProfileManager: Display: Deviceprofile Android_ASTC not found.
+[2025.10.07-13.31.28:031][647]LogDeviceProfileManager: Display: Deviceprofile Android_DXT not found.
+[2025.10.07-13.31.28:031][647]LogDeviceProfileManager: Display: Deviceprofile Android_ETC2 not found.
+[2025.10.07-13.31.28:031][647]LogDeviceProfileManager: Display: Deviceprofile Android_Multi not found.
+[2025.10.07-13.31.58:472][470]LogSlate: Window 'qwantani_noon_4k' being destroyed
+[2025.10.07-13.31.58:479][470]LogSlate: Window 'qwantani_noon_4k' being destroyed
+[2025.10.07-13.32.35:445][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /HDRIBackdrop/Blueprints/HDRIBackdrop.HDRIBackdrop_C
+[2025.10.07-13.32.35:445][651]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /HDRIBackdrop/Blueprints/HDRIBackdrop.HDRIBackdrop_C
+[2025.10.07-13.32.35:449][651]LogActorFactory: Actor Factory spawned Blueprint /HDRIBackdrop/Blueprints/HDRIBackdrop.HDRIBackdrop as actor: HDRIBackdrop_C /Game/WildWestVillage.WildWestVillage:PersistentLevel.HDRIBackdrop_C_0
+[2025.10.07-13.32.35:450][651]LogActorFactory: Actor Factory spawned Blueprint /HDRIBackdrop/Blueprints/HDRIBackdrop.HDRIBackdrop as actor: HDRIBackdrop_C /Game/WildWestVillage.WildWestVillage:PersistentLevel.HDRIBackdrop_C_0
+[2025.10.07-13.32.36:265][653]LogRenderer: Using fallback RTPSO
+[2025.10.07-13.32.36:282][654]LogRenderer: Using fallback RTPSO
+[2025.10.07-13.32.36:335][655]LogD3D12RHI: Creating RTPSO with 39 shaders (0 cached, 2 new) took 70.77 ms. Compile time 68.98 ms, link time 1.77 ms.
+[2025.10.07-13.32.36:337][655]LogD3D12RHI: Creating RTPSO with 39 shaders (2 cached, 0 new) took 54.48 ms. Compile time 51.45 ms, link time 3.00 ms.
+[2025.10.07-13.32.58:213][819]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-13.32.58:218][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-13.32.58:222][819]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.07-13.32.58:222][819]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.07-13.32.58:222][819]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WildWestVillage
+[2025.10.07-13.32.58:318][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.095244s)
+[2025.10.07-13.32.58:318][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WildWestVillage.WildWestVillage to /Game/UEDPIE_0_WildWestVillage.WildWestVillage (0.095289s)
+[2025.10.07-13.32.58:343][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.10.07-13.32.58:345][819]LogChaosDD: Creating Chaos Debug Draw Scene for world WildWestVillage
+[2025.10.07-13.32.58:346][819]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2025.10.07-13.32.58:347][819]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-13.32.58:347][819]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-13.32.58:347][819]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-13.32.58:347][819]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-13.32.58:347][819]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-13.32.58:347][819]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-13.32.58:349][819]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-13.32.58:402][819]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-13.32.58:402][819]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-13.32.58:402][819]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-13.32.58:402][819]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-13.32.58:403][819]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.07-13.32.58:403][819]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.07-13.32.58:405][819]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.07-13.32.58:405][819]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.07-13.32.58:405][819]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.07-13.32.58:405][819]LogAudio: Display: Audio Device (ID: 2) registered with world 'WildWestVillage'.
+[2025.10.07-13.32.58:405][819]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.07-13.32.58:409][819]LogStreaming: Display: FlushAsyncLoading(367): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.07-13.32.58:716][819]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-13.32.58:758][819]LogWorld: Bringing World /Game/UEDPIE_0_WildWestVillage.WildWestVillage up for play (max tick rate 60) at 2025.10.07-15.32.58
+[2025.10.07-13.32.58:759][819]LogWorld: Bringing up level for play took: 0.041738
+[2025.10.07-13.32.58:761][819]LogOnline: OSS: Created online subsystem instance for: :Context_2
+[2025.10.07-13.32.58:780][819]PIE: Server logged in
+[2025.10.07-13.32.58:781][819]PIE: Play in editor total start time 0.564 seconds.
+[2025.10.07-13.32.58:851][820]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.10.07-13.32.59:079][821]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.10.07-13.32.59:106][822]LogPSOHitching: Encountered 50 PSO creation hitches so far (32 graphics, 18 compute). 0 of them were precached.
+[2025.10.07-13.32.59:153][824]LogRenderer: Using fallback RTPSO
+[2025.10.07-13.33.31:537][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-13.33.31:537][764]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WildWestVillage
+[2025.10.07-13.33.31:538][764]LogWorld: UWorld::CleanupWorld for WildWestVillage, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-13.33.31:549][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-13.33.31:551][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-13.33.31:553][764]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-13.33.31:570][764]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.07-13.33.31:570][764]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.07-13.33.31:570][764]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.07-13.33.31:572][764]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.07-13.33.31:578][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-13.33.31:587][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.07-13.33.31:631][765]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2025.10.07-13.33.35:082][963]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 341.168427
+[2025.10.07-13.33.35:275][972]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.07-13.33.35:275][972]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 341.339508, Update Interval: 305.388947
+[2025.10.07-13.33.43:120][381]Cmd: TRANSACTION UNDO
+[2025.10.07-13.33.43:120][381]LogEditorTransaction: Undo Scale Elements
+[2025.10.07-13.33.44:925][472]Cmd: TRANSACTION UNDO
+[2025.10.07-13.33.44:925][472]LogEditorTransaction: Undo Scale Elements
+[2025.10.07-13.33.46:132][534]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.10.07-13.33.46:132][534]LogScript: Warning: Script Msg called by: HDRIBackdrop_C /Game/WildWestVillage.WildWestVillage:PersistentLevel.HDRIBackdrop_C_0
+[2025.10.07-13.33.46:461][552]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2025.10.07-13.33.46:461][552]LogScript: Warning: Script Msg called by: HDRIBackdrop_C /Game/WildWestVillage.WildWestVillage:PersistentLevel.HDRIBackdrop_C_0
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: ================================================
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Total job queries 530, among them cache hits 78 (14.72%), DDC hits 368 (69.43%), Duplicates 83 (15.66%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Tracking 369 distinct input hashes that result in 214 distinct outputs (57.99%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: RAM used: 1.87 MiB of 1.60 GiB budget. Usage: 0.11%
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Shaders Compiled: 1
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Time job spent in pending queue: average 0.34 s, longest 0.34 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Job execution time: average 0.51 s, max 0.51 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Job life time (pending + execution): average 0.85 s, max 0.85
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Shader code size: total 9.727 KiB, numShaders 1, average 9.727 KiB, min 9.727 KiB, max 9.727 KiB
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.85 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Average processing rate: 1.18 jobs/sec
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Total thread time: 0.356 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Total thread preprocess time: 6.869 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Percentage time preprocessing: 1927.58%
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Effective parallelization: 0.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.052687
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                      FLandscapeGrassWeightVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                      FLandscapeGrassWeightPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: === Material stats ===
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Materials Translated:    163
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Material Translation Only: 0.04 s (44%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: Material Cache Hits: 27 (17%)
+[2025.10.07-13.33.57:539][158]LogShaderCompilers: Display: ================================================
+[2025.10.07-13.34.00:125][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.07-13.34.00:211][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.07-13.34.00:465][309]LogSavePackage: Moving output files for package: /Game/WildWestVillage
+[2025.10.07-13.34.00:465][309]LogSavePackage: Moving '../../../../../../Users/Yunchang/Documents/Unreal Projects/Unreal1/MyProject/Saved/WildWestVillageC7E8889144646168C7A8A49B1039A4DD.tmp' to '../../../../../../Users/Yunchang/Documents/Unreal Projects/Unreal1/MyProject/Content/WildWestVillage.umap'
+[2025.10.07-13.34.00:474][309]LogFileHelpers: Saving map 'WildWestVillage' took 0.291
+[2025.10.07-13.34.00:485][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 360.248 ms
+[2025.10.07-13.34.00:545][309]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.07-13.34.00:545][309]LogContentValidation: Enabled validators:
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.07-13.34.00:545][309]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.07-13.34.00:545][309]AssetCheck: /Game/WildWestVillage Validating asset
+[2025.10.07-13.34.00:845][327]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.07-13.34.00:848][327]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.07-13.34.00:849][327]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_WildWestVillage
+[2025.10.07-13.34.00:944][327]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094591s)
+[2025.10.07-13.34.00:944][327]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/WildWestVillage.WildWestVillage to /Game/UEDPIE_0_WildWestVillage.WildWestVillage (0.094628s)
+[2025.10.07-13.34.00:957][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.07-13.34.00:958][327]LogChaosDD: Creating Chaos Debug Draw Scene for world WildWestVillage
+[2025.10.07-13.34.00:960][327]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2025.10.07-13.34.00:960][327]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.07-13.34.00:960][327]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.07-13.34.00:960][327]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.07-13.34.00:960][327]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.07-13.34.00:960][327]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.07-13.34.00:960][327]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.07-13.34.00:963][327]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.07-13.34.01:014][327]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.07-13.34.01:014][327]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.07-13.34.01:014][327]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.07-13.34.01:014][327]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.07-13.34.01:015][327]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.07-13.34.01:015][327]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.07-13.34.01:017][327]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.07-13.34.01:017][327]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.07-13.34.01:017][327]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.07-13.34.01:017][327]LogAudio: Display: Audio Device (ID: 3) registered with world 'WildWestVillage'.
+[2025.10.07-13.34.01:017][327]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.07-13.34.01:020][327]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.07-13.34.01:060][327]LogWorld: Bringing World /Game/UEDPIE_0_WildWestVillage.WildWestVillage up for play (max tick rate 60) at 2025.10.07-15.34.01
+[2025.10.07-13.34.01:061][327]LogWorld: Bringing up level for play took: 0.040312
+[2025.10.07-13.34.01:063][327]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.07-13.34.01:067][327]PIE: Server logged in
+[2025.10.07-13.34.01:069][327]PIE: Play in editor total start time 0.22 seconds.
+[2025.10.07-13.34.01:128][328]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 768
+[2025.10.07-13.34.01:271][329]LogRenderer: Warning: [VSM] One Pass Projection max lights overflow. If you see shadow artifacts, decrease the amount of local lights per pixel, or increase r.Shadow.Virtual.OnePassProjection.MaxLightsPerPixel.
+[2025.10.07-13.34.16:997][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-13.34.16:997][272]LogWorld: BeginTearingDown for /Game/UEDPIE_0_WildWestVillage
+[2025.10.07-13.34.16:997][272]LogWorld: UWorld::CleanupWorld for WildWestVillage, bSessionEnded=true, bCleanupResources=true
+[2025.10.07-13.34.17:009][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-13.34.17:011][272]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.07-13.34.17:013][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.07-13.34.17:025][272]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.07-13.34.17:030][272]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.07-13.34.17:030][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.07-13.34.17:032][272]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.07-13.34.17:046][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.10.07-13.34.17:087][273]LogPlayLevel: Display: Destroying online subsystem :Context_3
